@@ -1,4 +1,6 @@
-# :octocat: Blog_Website_Without_Database
+# :octocat: Blog_Website_With_Database
+
+## This is a Upgrade of my previous project, [Blog Website Without Database](https://github.com/yashdoshi12/Blog_Website_Without_Database). I have added MongoDB database to it!
 
 This is a Blog website made using `EJS`. You can write blogs and post them!
 
