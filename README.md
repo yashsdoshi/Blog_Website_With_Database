@@ -2,7 +2,7 @@
 
 # :octocat: Blog_Website_With_Database
 
-## This is a Upgrade of my previous project, [Blog Website Without Database](https://github.com/yashdoshi12/Blog_Website_Without_Database). I have added MongoDB database to it!
+### This is a Upgrade of my previous project, [Blog Website Without Database](https://github.com/yashdoshi12/Blog_Website_Without_Database). I have added MongoDB database to it!
 
 This is a Blog website made using `EJS`. You can write blogs and post them!
 
@@ -24,7 +24,7 @@ Method-1) Run the commands from below in your vs-code project folder terminal.
   npm i lodash
 ```
 
-Method-2) Clone the repo. and run;
+Method-2) Download this repo. and run;
 ```bash
   npm i
 ```
@@ -32,11 +32,11 @@ Method-2) Clone the repo. and run;
 ## :octocat: Cloning this repo:
 - [x] Run the following command:
 ```bash 
-git clone 'https://github.com/yashdoshi12/Blog_Website_Without_Database.git' 
+git clone 'https://github.com/yashdoshi12/Blog_Website_With_Database.git' 
 ```
 - [x] `cd` to the cloned folder:
 ```bash 
-cd Blog_Website_Without_Database
+cd Blog_Website_With_Database
 ```
 - [x] Install required `npm` pakages
 ```bash 
