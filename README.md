@@ -16,13 +16,17 @@ This is a simple website made using,
 
 ## :octocat: To install modules and frameworks
 
-
-Run the commands from below in your vs-code project folder terminal.
+Method-1) Run the commands from below in your vs-code project folder terminal.
 ```bash
   npm i node
   npm i express
   npm i body-parser
   npm i lodash
+```
+
+Method-2) Clone the repo. and run;
+```bash
+  npm i
 ```
 
 ## :octocat: Cloning this repo:
