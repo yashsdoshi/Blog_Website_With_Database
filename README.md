@@ -1,3 +1,5 @@
+# ⚠ README is still under-construction ⚠
+
 # :octocat: Blog_Website_With_Database
 
 ## This is a Upgrade of my previous project, [Blog Website Without Database](https://github.com/yashdoshi12/Blog_Website_Without_Database). I have added MongoDB database to it!
@@ -9,8 +11,7 @@ This is a simple website made using,
 1. <b>`Node.js`</b> 
 2. <b>`express.js`</b>
 3. <b>`Body-parser`</b> Module
-4. <b>`HTTPS`</b> Module
-5. <b>`lodash`</b> Mobule
+4. <b>`lodash`</b> Mobule
 
 
 ## :octocat: To install modules and frameworks
