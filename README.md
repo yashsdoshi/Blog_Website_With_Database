@@ -1,4 +1,6 @@
 # ⚠ README is still under-construction ⚠
+My exams are comming soon, so I'll be hitting the books instead of hitting the keyboard. Wish me luck or else I'll be 💀.
+
 
 # :octocat: Blog_Website_With_Database
 
