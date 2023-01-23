@@ -52,13 +52,14 @@ npm i
 ![Screenshot 2023-01-08 120536](https://user-images.githubusercontent.com/39629707/211184337-a5c477ff-3b3f-4ec4-8b5e-2d99dc8ac6f9.jpg)
 
 ### :octocat: writing a post:
-![Screenshot 2023-01-08 120820](https://user-images.githubusercontent.com/39629707/211184346-a3483f02-369a-46ff-9108-b7bfe9cd045f.jpg)
-
-### :octocat: After submitting the post:
-![Screenshot 2023-01-08 120838](https://user-images.githubusercontent.com/39629707/211184360-d3dcf620-be10-4d3e-8ff5-2e2023b7b662.jpg)
+![Screenshot 2023-01-23 143613](https://user-images.githubusercontent.com/39629707/214003829-967aef2c-98f0-4adc-931d-97fb3becf80c.jpg)
 
 ### :octocat: Updated Homepage:
-![Screenshot 2023-01-08 120859](https://user-images.githubusercontent.com/39629707/211184393-7a4e3952-b5f5-4e6c-a0ac-e7f3fa12068c.jpg)
+![Screenshot 2023-01-23 143634](https://user-images.githubusercontent.com/39629707/214003913-3173962c-d567-4c91-856e-036e5a8bcbd1.jpg)
+
+### :octocat: Elaboration on specific post:
+![Screenshot 2023-01-23 143651](https://user-images.githubusercontent.com/39629707/214004031-2e3023b3-7acd-429e-b678-47a50b0780c5.jpg)
+
 
 
 ### :octocat: Note:
