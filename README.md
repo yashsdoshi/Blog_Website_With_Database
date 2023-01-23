@@ -41,7 +41,7 @@ cd Blog_Website_With_Database
 ```bash 
 npm i
 ```
-
+<hr />
 ### :octocat: Example prewview of website:
 ![Screenshot 2023-01-08 120446](https://user-images.githubusercontent.com/39629707/211184306-ac181f9b-f877-4bac-8c5e-079187ba141f.jpg)
 
@@ -59,7 +59,14 @@ npm i
 
 ### :octocat: Elaboration on specific post:
 ![Screenshot 2023-01-23 143651](https://user-images.githubusercontent.com/39629707/214004031-2e3023b3-7acd-429e-b678-47a50b0780c5.jpg)
+<hr/>
 
+### MongoDB Shell images:
+![Screenshot 2023-01-23 143802](https://user-images.githubusercontent.com/39629707/214004381-33aa5342-652a-4b07-b537-192f05913013.jpg)
+
+![Screenshot 2023-01-23 143905](https://user-images.githubusercontent.com/39629707/214004431-f597452c-7aaa-4a24-a943-c20869cb01a2.jpg)
+
+![Screenshot 2023-01-23 143937](https://user-images.githubusercontent.com/39629707/214004459-38fe9ad2-7470-4061-8d74-38519d9af213.jpg)
 
 
 ### :octocat: Note:
