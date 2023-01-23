@@ -1,5 +1,3 @@
-# ⚠ README is still under-construction ⚠
-
 
 # :octocat: Blog_Website_With_Database
 
