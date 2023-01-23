@@ -43,6 +43,7 @@ npm i
 ```
 <hr />
 ### :octocat: Example prewview of website:
+
 ![Screenshot 2023-01-08 120446](https://user-images.githubusercontent.com/39629707/211184306-ac181f9b-f877-4bac-8c5e-079187ba141f.jpg)
 
 ### :octocat: About Us Page:
