@@ -12,6 +12,11 @@ This is a simple website made using,
 3. <b>`Body-parser`</b> Module
 4. <b>`lodash`</b> Mobule
 
+# Note from Owner
+- [x] <b>I have not worked much on `styling` for simplicity.</b>
+- [x] <b>This website will give you a clear understanding of how `CRUD in MongoDB` works!</b>
+
+<hr />
 
 ## :octocat: To install modules and frameworks
 
