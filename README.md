@@ -33,7 +33,7 @@ Method-2) Download this repo. and run;
   npm i
 ```
 
-## :octocat: Cloning this repo:
+## :octocat: Cloning this repo(Terminal Vaersion):
 - [x] Run the following command:
 ```bash 
 git clone 'https://github.com/yashdoshi12/Blog_Website_With_Database.git' 
