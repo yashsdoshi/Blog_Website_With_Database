@@ -74,10 +74,6 @@ npm i
 
 ![Screenshot 2023-01-23 143937](https://user-images.githubusercontent.com/39629707/214004459-38fe9ad2-7470-4061-8d74-38519d9af213.jpg)
 
-
-### :octocat: Note:
-The code was taught to me during the Web_development course. This repo is for my future reference. 
-Special thanks to [@angelabauer](https://github.com/angelabauer)
 <hr />
 <br />
 
