@@ -36,7 +36,7 @@ Method-2) Download this repo. and run;
 ## :octocat: Cloning this repo(Terminal Vaersion):
 - [x] Run the following command:
 ```bash 
-git clone 'https://github.com/yashdoshi12/Blog_Website_With_Database.git' 
+git clone 'https://github.com/yashsdoshi/Blog_Website_With_Database.git' 
 ```
 - [x] `cd` to the cloned folder:
 ```bash 
